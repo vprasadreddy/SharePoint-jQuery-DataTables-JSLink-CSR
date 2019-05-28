@@ -1,7 +1,7 @@
 <style>
 /* this style is used to shrink the long text */
 .display td {
-	max-width: 150px;
+    max-width: 150px;
     overflow: hidden;
     text-overflow: ellipsis;
     white-space: nowrap;
