@@ -1,8 +1,8 @@
 # SharePoint jQuery DataTables JSLink/CSR Client Side Rendering) for Lists
-# This JSLink/CSR code is used to convert a SharePoint List view to jQuery DataTables view dynamically based on columns in a List.
-# The jQuery DataTables view allows to sort, filter and search for an item in a List based on a keyword.
+## This JSLink/CSR code is used to convert a SharePoint List view to jQuery DataTables view dynamically based on columns in a List.
+## The jQuery DataTables view allows to sort, filter and search for an item in a List based on a keyword.
 
-Steps to implement this.
+#### Steps to implement this in Lists.
 1. Download DatatablesJSLinkListView.js file and upload it to Site Assets library in your SharePoint site.
 2. Copy the path of the uploaded file from Site Assets library.
 3. Go to the List and select a view or by default (AllItems.aspx) view to which you want to apply DataTables JSLink/CSR and edit the page.
@@ -14,10 +14,10 @@ Steps to implement this.
 
 
 # SharePoint DataTables JSLink/CSR (Client Side Rendering) for Document Libraries
-### This JSLink/CSR (Client Side Rendering) code is used to convert a SharePoint Library view to jQuery DataTables view dynamically based on columns in the Library.
+
 ### The jQuery DataTables view allows you to sort, filter and search for a document in a Library based on a keyword.
 
-# Steps to implement this.
+#### Steps to implement this in Document Libraries.
 1. Download DatatablesJSLinkDocLibView.js file and upload it to Site Assets library in your SharePoint site.
 2. Copy the path of the uploaded file from Site Assets library.
 3. Go to the SharePoint Library and select a view or by default (AllItems.aspx) view to which you want to apply DataTables JSLink/CSR and edit the page.
