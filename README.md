@@ -1,6 +1,6 @@
 # SharePoint jQuery DataTables JSLink/CSR Client Side Rendering) for Lists
 ### This JSLink/CSR code is used to convert a SharePoint List view to jQuery DataTables view dynamically based on columns in a List.
-### The jQuery DataTables view allows to sort, filter and search for an item in a List based on a keyword.
+### The jQuery DataTables view is easy to sort, filter and search for an item/document/workflow task easily & quickly based on a keyword.
 
 #### Steps to implement in Lists.
 1. Download DatatablesJSLinkListView.js file and upload it to Site Assets library in your SharePoint site.
