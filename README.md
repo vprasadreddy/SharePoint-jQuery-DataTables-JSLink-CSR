@@ -12,9 +12,6 @@
 7. Now the Out of the Box(OOTB) or default SharePoint List View will be converted to jQuery DataTables View.
 
 
-
-# SharePoint DataTables JSLink/CSR (Client Side Rendering) for Document Libraries
-
 #### Steps to implement in Document Libraries.
 1. Download DatatablesJSLinkDocLibView.js file and upload it to Site Assets library in your SharePoint site.
 2. Copy the path of the uploaded file from Site Assets library.
@@ -24,8 +21,6 @@
 6. Save the Page.
 7. Now the Out of the Box(OOTB) or default SharePoint Library View will be converted to jQuery DataTables View.
 
-
-# SharePoint DataTables JSLink/CSR (Client Side Rendering) for Workflow Tasks List
 
 #### Steps to implement in Workflow Tasks List.
 1. Download DatatablesJSLinkWorkFlowTasks.js file and upload it to Site Assets library in your SharePoint site.
